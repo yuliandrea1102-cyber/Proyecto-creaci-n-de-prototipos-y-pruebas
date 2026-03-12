@@ -15,3 +15,4 @@ Pruebas para la comprensión de la interfaz, dificultades y tiempos o bloqueos e
 <img width="1438" height="1308" alt="Image 3" src="https://github.com/user-attachments/assets/7d88ca70-e891-425e-ae6e-f5260ac2e785" />
 <img width="1438" height="1308" alt="Image 2" src="https://github.com/user-attachments/assets/7e58a272-861c-44cb-97fa-70cee24cf2c4" />
 <img width="1438" height="1308" alt="Image 1" src="https://github.com/user-attachments/assets/3278fb60-250d-4500-b346-6801fbdf1923" />
+
